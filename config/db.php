@@ -12,6 +12,6 @@
  * DB_PASS: the password of the above user
  */
 define("DB_HOST", "127.0.0.1");
-define("DB_NAME", “database_name“);
-define("DB_USER", “database_username”);
-define("DB_PASS", “database_password”);
+define("DB_NAME", "database_name");
+define("DB_USER", "database_username");
+define("DB_PASS", "database_password");
